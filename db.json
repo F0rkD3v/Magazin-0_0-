@@ -1,0 +1,84 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Pen",
+            "description": "Writes with blue ink i think.",
+            "price": 13,
+            "photo-url": "https://static-ppimages.freetls.fastly.net/product/2000057097693-2.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg"
+
+        },
+        {
+            "id": 2,
+            "name": "Pencil",
+            "description": "You can erase this one.",
+            "price": 7,
+            "photo-url": "https://4.imimg.com/data4/PL/IY/MY-23695144/natraj-pencil-500x500.jpg"
+
+        },
+        {
+            "id": 3,
+            "name": "Eraser",
+            "description": "Erases the pencil (and the pen if you try hard enough).",
+            "price": 10,
+            "photo-url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49N-PllAntEFuFb7zoy8HwQwyO3fTyvokaw&usqp=CAU"
+
+        },
+        {
+            "id": 4,
+            "name": "Sharpener",
+            "description": "Restarts your pencil.",
+            "price": 25,
+            "photo-url": "https://www.faber-castell.com/-/media/Products/Product-Repository/Sharpener/24-24-21-Sharpener/183100-Metall-sharpener-Colour-pencils/Images/183100_10_PM1.ashx?bc=ffffff&as=0&h=900&w=900&sc_lang=en-Glob&hash=51835F0BFA8377DB46EB872CC05457AF"
+
+        },
+        {
+            "id": 5,
+            "name": "Ruler",
+            "description": "Helps you make straight lines.",
+            "price": 15,
+            "photo-url": "https://shop.rca.ac.uk/cdn/shop/products/helix-1m_700x700.jpg?v=1603141466"
+
+        },
+        {
+            "id": 6,
+            "name": "Highlighter",
+            "description": "Self explanatory.",
+            "price": 27,
+            "photo-url": "https://cultpens.com/cdn/shop/products/SB01265-24-ZZZ_STABILO-Boss-Original-Highlighter-Yellow-7024_P1.jpg?v=1663765873"
+
+        },
+        {
+            "id": 7,
+            "name": "Stick Notes",
+            "description": "Stick texts on things.",
+            "price": 30,
+            "photo-url": "https://5.imimg.com/data5/SELLER/Default/2022/9/OJ/GW/TI/8023805/self-stick-note-pad-for-finance-companies.jpg"
+
+        },
+        {
+            "id": 8,
+            "name": "Knife",
+            "description": "Ummmmm.",
+            "price": 200,
+            "photo-url": "https://5.imimg.com/data5/UE/QV/JZ/SELLER-79741246/chef-knife-500x500.jpg"
+
+        },
+        {
+            "id": 9,
+            "name": "Gun",
+            "description": "How did this get here.",
+            "price": 9999,
+            "photo-url": "https://cdn.britannica.com/96/176196-050-EFC5E6A6/Glock-pistol.jpg"
+
+        },
+        {
+            "id": 10,
+            "name": "Bob",
+            "description": "Bob",
+            "price": 808,
+            "photo-url": "https://m.media-amazon.com/images/I/61O4kRN3guL.jpg"
+
+        }
+    ]
+}
